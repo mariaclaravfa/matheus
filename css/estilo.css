@@ -1,0 +1,14 @@
+body {
+  background-color: white ;
+}
+
+h1 {
+  color: black; /*Pode escolher outra cor se quiser*/
+  text-align: center;
+}
+
+p {
+  color: firebrick;
+  font-family: verdana;
+  font-size: 20px;
+}
